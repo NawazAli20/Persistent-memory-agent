@@ -1,3 +1,0 @@
-Generated using the built-in image_gen tool.
-
-Create a polished 16:9 YouTube lecture thumbnail/banner also suitable for a GitHub README hero. Topic: persistent LangChain agent conversation memory with PostgreSQL. Large exceptionally legible typography reads exactly "AI AGENTS THAT REMEMBER" with smaller subtitle "LangChain + PostgreSQL" and small badge "PostgresSaver". Illustrate chat bubbles flowing into a luminous database cylinder, suggesting saved conversation and recall. Professional educational technology visual, crisp dimensional illustration, dark backdrop, high contrast, restrained luminous accents, spacious composition, no people, no extra text, no watermark. Keep all text safely inset from edges.
